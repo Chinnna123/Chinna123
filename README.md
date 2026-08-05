@@ -12,16 +12,12 @@ I'm passionate about AI/ML and building practical, end-to-end projects that comb
 - **Data & Analytics:** Power BI, DAX, Data Visualization
 - **Tools:** Git & GitHub, Replit, Microsoft Word/PowerPoint (report & docs automation)
 
-## 📌 Featured Projects
-
-### 🤖 [Conversational AI Bot](https://github.com/Chinnna123/LAVARAJU123)
-A conversational AI chatbot built using the Gemini API, deployed on Replit. Working toward publishing it as a mobile app on the Google Play Store.
 
 ### 📊 Power BI Finance & Budget Tracking Dashboard
 An end-to-end analytics project featuring synthetic financial datasets, DAX measures, and dashboard visualizations for FY 2025-26 budget tracking and insights.
 
 ## 📫 Connect with Me
-- GitHub: [@Chinnna123](https://github.com/Chinnna123)
+- GitHub: [@Chinnna123](https://github.com/Lavaraju)
 
 ---
 ⭐️ Always learning, always building. 
